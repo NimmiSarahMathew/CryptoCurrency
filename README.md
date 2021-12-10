@@ -27,4 +27,4 @@ By making use of the Jetpack architecture components - LiveData, Navigation, Vie
 
 In terms of scalability, for instance, if in the future one decides to bring in another source of data(i.e implement one’s own server or so) then it could be easily implemented( make use of polymorphism). Thus one could create as many sources as needed.
 
-![Architecture](CryptoArch.jpg)
+![Architecture](CryptoArch.png)
