@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+
+    <string name="exchange_id_title">Exchange ID</string>
+    <string name="rank_title">Rank</string>
+    <string name="price_title">Price</string>
+    <string name="date_title">Date</string>
+
+    <string name="first_fragment_label">Assets</string>
+    <string name="second_fragment_label">Market</string>
+
+    <string name="error">Something went wrong. Please try again</string>
+    <string name="try_again">\nPlease try again later</string>
+</resources>
